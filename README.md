@@ -17,7 +17,7 @@ This project was performed for CSE 145/237D under the direction of Ryan Kastner,
 
 ## Layout
 
-This repository contains artifacts related to the project and presentations. Contact Gabriel Marcano via gmarcano@ucsd.edu to gain access to the code repository.
+This repository contains artifacts related to the project and presentations. Contact Gabriel Marcano via gmarcano@ucsd.edu to gain access to the code repository. For those people with access, the code can be found on [GitLab here](https://gitlab.com/gemarcano/fpga_skip_hls) and it is mirrored on [Github here](https://github.com/gemarcano/fpga_resnet_skip).
 
 The `Documents` folder contains all of the reports made for the project. The project specification outlines the initial idea of the project, which evolved as we gained a better understanding over machine learning and as we implemented the iterative skip removal algorithm for compressing ResNets. The second document, the milestone document, outlines the updated goals for our project. The final report will be placed here when completed, and will contain a summary of all of our work this quarter, our results, and discussions about why our data disagrees with prior work, as well as possible remedies and work to continue.
 
