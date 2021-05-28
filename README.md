@@ -10,8 +10,8 @@ Our implementation leverages Keras and QKeras to implement the neural networks a
 
 ## Team
 
-Doheon Lee - Senior undergraduate
-Gabriel Marcano - PhD student
+ - Doheon Lee - Senior undergraduate student
+ - Gabriel Marcano - PhD student
 
 This project was performed for CSE 145/237D under the direction of Ryan Kastner, PhD., and in collaboration with Olivia Weng and Alireza Khodamoradi.
 
