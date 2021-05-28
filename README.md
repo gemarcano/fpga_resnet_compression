@@ -25,4 +25,8 @@ The `Presentations` folder contains all of the presentations made for the projec
 
 ## Additional details
 
+![ResNet skip example](./Pictures/ResNet_skip.png)
 
+## For more information
+
+We used the following to learn about 
