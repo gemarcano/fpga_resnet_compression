@@ -47,6 +47,6 @@ We used the following resources and papers to learn about neural networks and FP
 
  1. "Deep Residual Learning for Image Recognition", by He, et al.
  2. "Distilling the Knowledge in a Neural Network", by Hinton, et al.
- 3. https://keras.io/examples/vision/knowledge\_distillation/
+ 3. https://keras.io/examples/vision/knowledge_distillation/
  4. https://pp4fpgas.readthedocs.io/en/latest/
  5. "Deep Learning with Python", by François Chollet
